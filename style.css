@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+.body{
+        background-color: black;
+}
+/*index*/
+ /*Header*/ 
+
+ .titulo {
+     font-family:Arial, Helvetica, sans-serif;
+     font-size: 30px;
+     color: white;
+     background-color: black;
+     display: flex;
+     justify-content: center;
+     padding-top: 25px;
+     
+    }
+
+    /* Secciones */
+.nav{
+        display:flex;
+        justify-content: center;        
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 20px;
+        color: black;
+        text-decoration: none;
+
+
+}
+
+.itemsmenu{
+        display: inline;
+        display: flex;
+        justify-content: space-between;
+        
+}
+
+
+
+.menu {
+        text-decoration: none;
+        color: whitesmoke;
+}
+
+
+        li {
+                margin: 0.75rem;
+                list-style: none;
+        }
+/*Imagen*/ 
+
+.img-fluid{
+        width: 400px;
+        display: flex;
+        justify-content: center;
+        
+}
+
+.carousel-inner > .item > img { 
+        margin: 0 auto;
+ }
+
+
+
+.actions {
+          font-size: 20px;
+          font-family: Georgia, 'Times New Roman', Times, serif;
+          color: white;
+          background-color: black;
+          display: flex;
+          justify-content: center;
+          align-content: end;
+          padding-top: 35px;
+          margin: 100px auto 0 auto;
+
+         
+          
+}
+
+.video {
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        padding: 200px;
+        padding-top: 30px;
+        padding-bottom: 100px;
+        margin-top: 20px;
+}
+
+
+
+
+
+.spotify {
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+         color: white;
+         font-size: 20px;
+         background-color: black;
+         padding-bottom: 5px;
+         padding-left: 30px;
+         padding-top: 15px;
+         text-decoration: underline;
+}
+
+.playlist {
+           background-color: black;
+         
+
+}
+
+
+.redes {
+      font-size: 20px;
+      text-decoration: none;
+      font-family:Arial, Helvetica, sans-serif;
+      background-color: #837f7f;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      display: flex;
+      justify-content: center;
+      margin-left:450px;
+      margin-right: 450px;
+      border-radius: 3px;
+      border-color: white solid;        
+}
+
+.instagram{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-decoration: none;
+        color: black;
+        margin-top:40px;
+        margin-bottom: 40px;
+}
+
+.facebook{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-decoration: none;
+        color: black;
+}
+
+.contacto {
+           font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+           color: black;
+           font-size: 20px;
+           text-decoration: none;
+           
+           
+}
+
+
+.ubicacion {
+        color: white;
+        background-color: black;
+        display: flex;
+        justify-content: space-between  ;
+        
+}
+
+.parrafo{
+        background-color: black;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        padding-left: 15px 0 10px 1000px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin-top: 20px;
+        
+
+}
+
+.mapa {  
+        background-color: black;
+        display: flex;
+        justify-content: space-between;
+        width: 300px;
+        height: 200px;
+        padding: 10px 50px 20px 500px;
+        
+}
+
+/*fin index*/
+
+/*Nosotros*/
+
+.Nosotros{
+        color: white;
+        font-size: 18px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-top: 40px;
+        text-decoration: underline;
+
+}
+
+.calendario { 
+        font-size: arial;
+        color: white;
+        background-color: #000000;
+        margin-top: 30px;
+}
+
+.calendar{
+        background-color: black;
+}
+
+.fechas { 
+      background-color: black;
+      color: white;
+}
+
+.carousel-inner{
+        display: flex;
+        justify-content: center;
+        margin: auto;
+}
+
+
+
+         
+
+
+
+
+
+   
+
+ 
