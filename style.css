@@ -142,16 +142,21 @@
         margin-top:40px;
         margin-bottom: 40px;
         text-shadow: white solid;
+        
 }
-
+.icon-insta{
+        width: 100px;
+        
+}
 
 .facebook{
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         text-decoration: none;
         color: black;
         text-shadow: white solid;
-
-
+}
+.icon-face{
+        width: 100px;
 }
 
 .contacto {
@@ -160,8 +165,10 @@
            font-size: 20px;
            text-decoration: none;
            text-shadow: white solid;
-           
-           
+}
+
+.icon-contacto{
+        width: 100px;
 }
 
 
