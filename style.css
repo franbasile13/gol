@@ -216,6 +216,12 @@
         justify-content: center;
 
 }
+.garagefam {
+        width: 500px;
+        display: flex;
+        justify-content: center;
+}
+
 
 .calendario { 
         font-size: 15px;
