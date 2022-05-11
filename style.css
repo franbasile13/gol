@@ -184,9 +184,9 @@
         background-color: black;
         color: white;
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
         padding-left: 15px 0 10px 1000px;
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif    ;
         margin-top: 20px;
         
 
@@ -212,18 +212,26 @@
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         margin-top: 40px;
         text-decoration: underline;
+        display: flex;
+        justify-content: center;
 
 }
 
 .calendario { 
-        font-size: arial;
+        font-size: 15px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
         color: white;
         background-color: #000000;
         margin-top: 30px;
+        display: flex; 
+        justify-content: center;
 }
 
 .calendar{
-        background-color: rgb(255, 255, 255);
+        background-color: rgb(12, 12, 12);
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
 }
 
 .fechas { 
