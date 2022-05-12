@@ -27,6 +27,7 @@
         font-size: 20px;
         color: black;
         text-decoration: none;
+        background-color: black;
 
 
 }
@@ -35,6 +36,7 @@
         display: inline;
         display: flex;
         justify-content: space-between;
+        background-color: black;
         
 }
 
@@ -224,6 +226,7 @@
         margin-top: 20px;
 }
 
+/*Eventos*/
 
 .calendario { 
         font-size: 15px;
@@ -251,6 +254,10 @@
         display: flex;
         justify-content: center;
         margin: auto;
+}
+
+.market{
+        background-color: #535353;
 }
 
 
