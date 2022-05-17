@@ -24,7 +24,7 @@
         display:flex;
         justify-content: center;        
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        font-size: 20px;
+        font-size: 1.5em;
         color: black;
         text-decoration: none;
         background-color: black;
@@ -69,7 +69,7 @@
 
 
 .actions {
-          font-size: 20px;
+          font-size: 1.5em;
           font-family: Georgia, 'Times New Roman', Times, serif;
           color: white;
           background-color: black;
@@ -277,7 +277,11 @@
         grid-template-rows: auto;
         justify-content: center;
         align-items: center;
-        margin-left: 250px;
+        
+}
+.market1{
+        display: flex;
+        justify-content: center;
 }
 .card{
         background-color: #797979;
