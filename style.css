@@ -218,12 +218,24 @@
         justify-content: center;
 
 }
-.garagefam {
-        width: 500px;
+
+.fotos{
         display: flex;
         justify-content: center;
-        margin-left: 400px;
+        align-items: center;
+       
+
+        
+}
+.garagefam {
+        width: 450px;
         margin-top: 20px;
+     
+        
+        
+
+        
+        
 }
 
 /*Eventos*/
