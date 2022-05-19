@@ -55,8 +55,7 @@
 /*Imagen*/ 
 
 .img-fluid{
-        width: 400px;
-        height: 300px;
+        width: 300px;
         display: flex;
         justify-content: center;
         
