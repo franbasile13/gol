@@ -245,6 +245,8 @@
         margin-top: 10px;
         background-color: #000000;
         width: 500px;
+        display: flex;
+        justify-content: center;
         
 }
 
