@@ -341,9 +341,31 @@
         font-family: 'Courier New', Courier, monospace;
 
 }
-      
 
 
+
+.imagen-trabajos .bobber{
+        width: 500px;
+        margin-left: 425px;
+        display: flex;
+        justify-content: center;
+}
+
+.chopper{
+        width: 500px;
+        display: flex;
+        justify-content: center;
+        margin-left: 425px;
+}
+
+.texto{
+        background-color: #000000;
+        color: white;
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 10px;
+}
          
 
 
