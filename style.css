@@ -187,6 +187,11 @@
        
 }
 
+.form{
+        display: flex;
+        justify-content: center;
+}
+
 .formulario{
         margin-top: 30px;
         display: flex;
@@ -220,22 +225,28 @@
         
 
 }
+
+
+.pie.mapa{
+        margin-top: 20px;
+        background-color: #000000;
+}
 .mapa-texto{
-        background-color: black;
+        font-size: 15px;
+        background-color: rgb(0, 0, 0);
         color: white;
         display: flex;
         justify-content: center;
+
         
 }
 .mapa {  
         margin-top: 10px;
+        background-color: #000000;
         
 }
-.pie-mapa{
-        margin-top: 20px;
-}
 
-/*fin index*/
+
 
 /*Nosotros*/
 
