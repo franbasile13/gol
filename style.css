@@ -35,7 +35,7 @@
 .itemsmenu{
         display: inline;
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
         background-color: black;
         
 }
@@ -64,6 +64,7 @@
 .carousel-inner > .item > img { 
         margin: 0 auto;
  }
+
 
 
 
@@ -243,6 +244,7 @@
 .mapa {  
         margin-top: 10px;
         background-color: #000000;
+        width: 500px;
         
 }
 
@@ -342,6 +344,7 @@
 
 }
 
+/*trabajos*/
 .imagen-trabajos{
         display: flex;
         justify-content: center;
