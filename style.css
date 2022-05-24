@@ -172,12 +172,40 @@
         width: 100px;
 }
 
+/*Contacto*/
 
+.h1contacto{
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+}
+
+.form1{
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+       
+}
+
+.formulario{
+        margin-top: 30px;
+        display: flex;
+        justify-content: center;
+        
+       
+}
+.form-floatin{
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+
+}
 .ubicacion {
         color: white;
         background-color: black;
         display: flex;
-        justify-content: space-between  ;
+        justify-content: center ;
+
         
 }
 
@@ -192,15 +220,19 @@
         
 
 }
-
-.mapa {  
+.mapa-texto{
         background-color: black;
+        color: white;
         display: flex;
-        justify-content: space-between;
-        width: 300px;
-        height: 200px;
-        padding: 10px 50px 20px 500px;
+        justify-content: center;
         
+}
+.mapa {  
+        margin-top: 10px;
+        
+}
+.pie-mapa{
+        margin-top: 20px;
 }
 
 /*fin index*/
