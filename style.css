@@ -342,20 +342,18 @@
 
 }
 
-
-
-.imagen-trabajos .bobber{
-        width: 500px;
-        margin-left: 425px;
+.imagen-trabajos{
         display: flex;
         justify-content: center;
 }
 
+.bobber{
+        width: 500px;
+      
+}
+
 .chopper{
         width: 500px;
-        display: flex;
-        justify-content: center;
-        margin-left: 425px;
 }
 
 .texto{
