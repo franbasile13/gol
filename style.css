@@ -14,20 +14,22 @@
      color: white;
      background-color: black;
      display: flex;
-     justify-content: center;
+     justify-content: left;
      padding-top: 25px;
+     padding-left: 30px;
      
     }
 
     /* Secciones */
-.nav{
+.nav1{
         display:flex;
-        justify-content: center;        
+        justify-content: space-between;        
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        font-size: 1.5em;
+        font-size: 1em;
         color: black;
         text-decoration: none;
         background-color: black;
+        
 
 
 }
@@ -52,6 +54,11 @@
                 margin: 0.75rem;
                 list-style: none;
         }
+
+.encabezado{
+        background-color: black;
+        color: whitesmoke;
+}        
 /*Imagen*/ 
 
 .img-fluid{
@@ -128,8 +135,8 @@
       text-decoration: none;
       font-family:Arial, Helvetica, sans-serif;
       background-color: #f3efef;
-      padding-top: 30px;
-      padding-bottom: 30px;
+      padding-top: 5px;
+      padding-bottom: 5x;
       display: flex;
       justify-content: center;
       text-shadow: white solid 3px;
@@ -147,7 +154,7 @@
         
 }
 .icon-insta{
-        width: 100px;
+        width: 50px;
         
 }
 
@@ -158,7 +165,7 @@
         text-shadow: white solid;
 }
 .icon-face{
-        width: 100px;
+        width: 50px;
 }
 
 .contacto {
@@ -170,7 +177,7 @@
 }
 
 .icon-contacto{
-        width: 100px;
+        width: 50px;
 }
 
 /*Contacto*/
@@ -222,7 +229,7 @@
         justify-content: center;
         padding-left: 15px 0 10px 1000px;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif    ;
-        margin-top: 20px;
+        margin-top: 5px;
         
 
 }
@@ -340,7 +347,7 @@
 
 .icon-whats{
         
-        width: 100px;
+        width: 50px;
         font-size: 10px;
         font-family: 'Courier New', Courier, monospace;
 
